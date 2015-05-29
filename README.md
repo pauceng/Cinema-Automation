@@ -1,4 +1,4 @@
-# Sinema Bilet Satiş Otomosyonu
+# Sinema Bilet Satiş Otomasyonu
 
 Sistemde iki tür kullanıcı bulunmaktadır: admin ve müşteri. Her kullanıcı sisteme kullanıcı adı ve şifre ile giriş yapacak. Adminler sisteme admin tarafından eklenebilir. Kullanıcılar sisteme kendileri kayıt yaparak(register) veya admin tarafından eklenebilir. Her grubun rolleri aşağıdaki gibidir:
 
