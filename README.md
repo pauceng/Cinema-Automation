@@ -24,4 +24,32 @@ Sistemde iki tür kullanıcı bulunmaktadır: admin ve müşteri. Her kullanıc�
 * Bilet satış veya rezervazyonundan sonra işleme ait tüm bilgiler ekranda listelenmelidir.
 * Bilet iptali yapılabilmelidir.
 
-####Ekran görüntüleri eklenecektir!
+####Ekran görüntüleri
+
+* 1
+
+![](https://raw.githubusercontent.com/PAU-Projects/Cinema-Otomation/master/img/screen1.png)
+
+* 2
+
+![](https://raw.githubusercontent.com/PAU-Projects/Cinema-Otomation/master/img/screen2.png)
+
+* 3
+
+![](https://raw.githubusercontent.com/PAU-Projects/Cinema-Otomation/master/img/screen3.png)
+
+* 4
+
+![](https://raw.githubusercontent.com/PAU-Projects/Cinema-Otomation/master/img/screen4.png)
+
+* 5
+
+![](https://raw.githubusercontent.com/PAU-Projects/Cinema-Otomation/master/img/screen5.png)
+
+* 6
+
+![](https://raw.githubusercontent.com/PAU-Projects/Cinema-Otomation/master/img/screen6.png)
+
+* 7
+
+![](https://raw.githubusercontent.com/PAU-Projects/Cinema-Otomation/master/img/screen7.png)
