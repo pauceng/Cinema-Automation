@@ -53,3 +53,7 @@ Sistemde iki tür kullanıcı bulunmaktadır: admin ve müşteri. Her kullanıc�
 * 7
 
 ![](https://raw.githubusercontent.com/PAU-Projects/Cinema-Otomation/master/img/screen7.png)
+
+
+-----------------
+* http://www.cinemaximum.com.tr/ Adresinden örenek alınmıştır.
