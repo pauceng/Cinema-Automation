@@ -2,7 +2,7 @@
 
 Sistemde iki tür kullanıcı bulunmaktadır: Admin ve Müşteri. Her kullanıcı sisteme kullanıcı adı ve şifre ile giriş yapacak. Adminler sisteme admin tarafından eklenebilir. Kullanıcılar sisteme kendileri kayıt yaparak(register) veya admin tarafından eklenebilir. Her grubun rolleri aşağıdaki gibidir:
 
-###Admin:
+### Admin:
 
 * Admin salon ekleyebilir ve salondaki sıra sayısı, her sıradaki koltuk sayısı gibi bilgileri girebilir.
 * Admin film ekleyebilir ve bu film ile ilgili prodüksiyon yılı, oyuncular, dil, yönetmen, çıkış tarihi, 2 boyutlu 3 boyutlu, poster vs. gibi   bilgileri girebilir.(Fragman eklemek bonus)
@@ -12,7 +12,7 @@ Sistemde iki tür kullanıcı bulunmaktadır: Admin ve Müşteri. Her kullanıc�
 * Satılan , rezerve edilen ve boş olan koltuklar farklı renklerde görünmelidir.
 * Salon, film ve gösterim zamanları güncellenebilir olmalıdır.
 
-###Müşteri:
+### Müşteri:
 
 * Kullanıcı sisteme kullanıcı adını ve şifresini kullanarak girebilir.
 * Kullanıcı salon ve koltuk bilgilerini, film bilgilerini(poster vs.), filmin gösterim saatlerini görebilir.
@@ -22,7 +22,7 @@ Sistemde iki tür kullanıcı bulunmaktadır: Admin ve Müşteri. Her kullanıc�
 * Bilet satış veya rezervazyonundan sonra işleme ait tüm bilgiler ekranda listelenir.
 * Bilet iptali yapabililir.
 
-####Ekran görüntüleri
+#### Ekran görüntüleri
 
 * 1
 
